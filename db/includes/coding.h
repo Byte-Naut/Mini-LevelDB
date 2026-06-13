@@ -1,7 +1,3 @@
-//
-// Created by ljyay on 2026/4/9.
-//
-
 #ifndef MINI_LEVELDB_BINARY_CODEC_H
 #define MINI_LEVELDB_BINARY_CODEC_H
 

@@ -1,6 +1,3 @@
-//
-// Created by ljyay on 2026/2/20.
-//
 #include <optional>
 
 #include "./includes/mem_table.h"

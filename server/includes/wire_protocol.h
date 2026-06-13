@@ -1,7 +1,3 @@
-//
-// Created by ljyay on 2026/4/12.
-//
-
 #ifndef MINI_LEVELDB_WIRE_PROTOCOL_H
 #define MINI_LEVELDB_WIRE_PROTOCOL_H
 
